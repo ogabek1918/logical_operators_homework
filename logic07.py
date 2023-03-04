@@ -5,6 +5,6 @@ def main(a,b):
         a(int): parameter a
         b(int): parameter b
     Returns:
-        bool: answer
+        bool: answer 
     """
     return
